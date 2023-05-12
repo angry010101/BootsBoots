@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ITestApp</string>
+    <string name="no_boot">No boots detected</string>
+</resources>
